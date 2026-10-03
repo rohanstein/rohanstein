@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Rohan 👋
 
-<!--
-**rohanstein/rohanstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on bacterial and cyanobacterial genomics: genome assembly and annotation, discovery of
+functionally uncharacterized proteins with sequence and structure-based methods, and phage /
+mobile-genetic-element analysis.
 
-Here are some ideas to get you started:
+**Where my work lives:** [**rohanstein-lab**](https://github.com/rohanstein-lab), with an overview
+of the KUAC 3056 Novel Protein Discovery Pipeline and its phage / mobile-genetic-element branch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Looking for `novel-protein-search`?** That repository is private until the associated
+> manuscript is published, so its link shows "404 Not Found" unless you have access. Reviewers
+> (for example, prospective employers) can be given read-only access: please get in touch with
+> your GitHub username.
+
+**Tools I use:** Python, Bash, conda, HPC/PBS · SPAdes, MaxBin2, CheckM2, DFAST · BLAST, HMMER/Pfam,
+ESM2 · ESMFold2, ColabFold/AlphaFold2, Foldseek, US-align · AutoDock Vina, GROMACS · geNomad,
+CheckV, Pharokka, AMRFinderPlus
